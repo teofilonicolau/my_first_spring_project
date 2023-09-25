@@ -1,6 +1,6 @@
 # Meu Primeiro Projeto com Spring Boot e Java
 
-![Java Logo](https://example.com/java-logo.png) ![Spring Boot Logo](https://example.com/spring-boot-logo.png)
+
 
 Este é o meu primeiro projeto utilizando Spring Boot e Java, onde criei uma API REST e desenvolvi operações CRUD (Create, Read, Update, Delete).
 
